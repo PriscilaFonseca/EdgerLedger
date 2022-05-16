@@ -2,6 +2,40 @@
   color: rgb(40, 167, 69);
 }
 
-.text-secundary {
+.text-secondary {
   color: rgb(2, 132, 208);
+}
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(40, 167, 69);
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.bnt-primary {
+  background-color: rgb(40, 167, 69);
+  color: rgb(255, 255, 255);
+}
+
+.bnt-secondary {
+  background-color: rgb(2, 132, 208);
+  color: rgb(255, 255, 255);
+}
+
+.bnt-dark {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255);
+}
+
+.bnt-light {
+  background-color: rgb(255, 255, 255);
+  color: rgb(51, 51, 51);
 }

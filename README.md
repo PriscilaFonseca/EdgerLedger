@@ -1,4 +1,4 @@
-# Hotel Website sample HTML and CSS
+# EdgerLedger Website sample HTML and CSS
 
 Project created with basic HTML and CSS - Course Modern HTML & CSS From The Beginning
 
