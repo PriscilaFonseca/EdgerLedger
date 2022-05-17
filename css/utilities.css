@@ -99,6 +99,10 @@
   margin: 20px 0;
 }
 
+.team img {
+  border-radius: 50%;
+}
+
 .section-header {
   padding: 30px;
   display: flex;
@@ -108,7 +112,7 @@
   text-align: center;
 }
 
-.section-header h2{
+.section-header h2 {
   font-size: 40px;
   margin: 20px 0;
 }
