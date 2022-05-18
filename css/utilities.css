@@ -49,6 +49,17 @@
   border: 1px solid rgb(255, 255, 255);
 }
 
+.flex-items {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.flex-items>div {
+  padding: 20px;
+}
+
 .flex-columns.flex-reverse .row {
   flex-direction: row-reverse;
 }
@@ -97,10 +108,6 @@
 
 .flex-columns p {
   margin: 20px 0;
-}
-
-.team img {
-  border-radius: 50%;
 }
 
 .section-header {
